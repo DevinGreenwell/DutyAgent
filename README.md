@@ -67,5 +67,8 @@ This is a web application for managing duty schedules, built with React and Type
 
 This application is built as a static site. The contents of the `dist` directory can be deployed to any static hosting provider (like GitHub Pages, Vercel, Netlify, etc.).
 
+### GitHub Pages
+This repository is configured with GitHub Actions for automatic deployment to GitHub Pages. The app will be available at: https://devingreenwell.github.io/DutyAgent/
+
 
 
